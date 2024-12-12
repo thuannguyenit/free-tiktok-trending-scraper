@@ -1,0 +1,6 @@
+# Feel free to add your Python dependencies below. For formatting guidelines, see:
+# https://pip.pypa.io/en/latest/reference/requirements-file-format/
+
+webdriver_manager
+pandas
+selenium
